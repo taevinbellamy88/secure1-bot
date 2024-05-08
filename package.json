@@ -1,0 +1,18 @@
+{
+   "name": "sxr1",
+   "version": "1.0.0",
+   "description": "sxr1-discord-bot",
+   "main": "src/index.js",
+   "scripts": {
+      "test": "npm test"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "@shopify/shopify-api": "^9.3.2",
+      "axios": "^1.6.7",
+      "discord.js": "^14.14.1",
+      "dotenv": "^16.4.5",
+      "node-cron": "^3.0.3"
+   }
+}
